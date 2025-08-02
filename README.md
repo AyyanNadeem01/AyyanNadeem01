@@ -1,20 +1,12 @@
-<table style="width: 100%; border: none;">
-  <tr>
-    <td style="width: 70%; vertical-align: top; border: none;">
-      <h1>Hey there, I'm Ayyan Nadeem 👋</h1>
-      <p>
-        🎓 I'm a Software Engineering student at COMSATS Lahore<br>
-        💻 Passionate about Web Development and Artificial Intelligence<br>
-        🤝 Looking to collaborate on innovative and challenging coding projects<br>
-        🗣️ Love to talk tech – feel free to reach out!
-      </p>
-    </td>
-    <td style="width: 30%; text-align: right; border: none;">
-      <img src="https://th.bing.com/th/id/R.66991b500ab8c9093de12a76e61b9250?rik=iSpkhfMEWUTFhQ&pid=ImgRaw&r=0" alt="Ayyan Nadeem" width="250" />
-    </td>
-  </tr>
-</table>
+# Hey there, I'm Ayyan Nadeem 👋
 
+🎓 I'm a Software Engineering student at COMSATS Lahore  
+💻 Passionate about Web Development and Artificial Intelligence  
+🤝 Looking to collaborate on innovative and challenging coding projects  
+🛠️ Constantly learning new technologies and frameworks  
+🌱 Currently exploring Data Science and Machine Learning  
+🎯 Focused on building clean, scalable, and user-friendly applications  
+🗣️ Love to talk tech – feel free to reach out!
 
 ---
 
