@@ -1,6 +1,6 @@
-<table>
-<tr>
-<td>
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+
+<div style="flex: 1; min-width: 250px;">
 
 # Hey there, I'm Ayyan Nadeem 👋
 
@@ -9,20 +9,22 @@
 🤝 Looking to collaborate on innovative and challenging coding projects  
 🗣️ Love to talk tech – feel free to reach out!
 
-</td>
-<td>
-<img src="https://th.bing.com/th/id/R.66991b500ab8c9093de12a76e61b9250?rik=iSpkhfMEWUTFhQ&pid=ImgRaw&r=0" width="250"/>
-</td>
-</tr>
-</table>
+</div>
+
+<div style="flex: 1; min-width: 250px; text-align: center;">
+  <img src="https://th.bing.com/th/id/R.66991b500ab8c9093de12a76e61b9250?rik=iSpkhfMEWUTFhQ&pid=ImgRaw&r=0" alt="Ayyan Nadeem" width="250" style="border-radius: 12px;"/>
+</div>
+
+</div>
+
 
 ## 📬 Connect with Me
-- 📫 Email: [ayyan137a@gmail.com](mailto:ayyan137a@gmail.com)  
-- 💼 LinkedIn: [Ayyan Nadeem](https://www.linkedin.com/in/ayyan-nadeem-a1bb9795/)  
-- 🌐 Portfolio: [Ayyan Nadeem - Portfolio](https://ayyan-nadeem.netlify.app/)  
-- 💻 GitHub: [GitHub Profile](https://github.com/AyyanNadeem01)  
-- 📘 Facebook: [FB - Ayyan Nadeem](https://www.facebook.com/OfficialAyyanNadeem/)  
-- 📱 WhatsApp: [Chat on WhatsApp](https://wa.me/923174259244)
+- [📫 Email ](mailto:ayyan137a@gmail.com)  
+- [💼 LinkedIn](https://www.linkedin.com/in/ayyan-nadeem-a1bb9795/)  
+- [🌐 Portfolio](https://ayyan-nadeem.netlify.app/)  
+- [💻 GitHub](https://github.com/AyyanNadeem01)  
+- [📘 Facebook](https://www.facebook.com/OfficialAyyanNadeem/)  
+- [📱 WhatsApp](https://wa.me/923174259244)
 
 ---
 
