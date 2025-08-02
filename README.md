@@ -1,20 +1,20 @@
-<table style="border: none; width: 100%;">
-  <tr>
-    <td style="text-align: left; vertical-align: top;">
+<div align="left" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; width: 100%;">
+  
+  <div style="flex: 1; min-width: 300px;">
+    <h1>Hey there, I'm Ayyan Nadeem 👋</h1>
+    <p>
+      🎓 I'm a Software Engineering student at COMSATS Lahore<br>
+      💻 Passionate about Web Development and Artificial Intelligence<br>
+      🤝 Looking to collaborate on innovative and challenging coding projects<br>
+      🗣️ Love to talk tech – feel free to reach out!
+    </p>
+  </div>
+  
+  <div style="flex: 0; min-width: 250px; text-align: right;">
+    <img src="https://th.bing.com/th/id/R.66991b500ab8c9093de12a76e61b9250?rik=iSpkhfMEWUTFhQ&pid=ImgRaw&r=0" width="250" alt="Ayyan Nadeem" />
+  </div>
 
-<h1>Hey there, I'm Ayyan Nadeem 👋</h1>
-
-🎓 I'm a Software Engineering student at COMSATS Lahore  
-💻 Passionate about Web Development and Artificial Intelligence  
-🤝 Looking to collaborate on innovative and challenging coding projects  
-🗣️ Love to talk tech – feel free to reach out!
-
-</td>
-    <td style="text-align: right;">
-      <img src="https://th.bing.com/th/id/R.66991b500ab8c9093de12a76e61b9250?rik=iSpkhfMEWUTFhQ&pid=ImgRaw&r=0" width="250" alt="Ayyan Nadeem" />
-    </td>
-  </tr>
-</table>
+</div>
 
 
 
