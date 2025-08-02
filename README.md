@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
 
-<div style="flex: 1; min-width: 250px;">
+<div style="flex: 1; min-width: 300px;">
 
 # Hey there, I'm Ayyan Nadeem 👋
 
@@ -11,58 +11,54 @@
 
 </div>
 
-<div style="flex: 1; min-width: 250px; text-align: center;">
+<div style="flex: 1; min-width: 250px; text-align: right;">
   <img src="https://th.bing.com/th/id/R.66991b500ab8c9093de12a76e61b9250?rik=iSpkhfMEWUTFhQ&pid=ImgRaw&r=0" alt="Ayyan Nadeem" width="250" style="border-radius: 12px;"/>
 </div>
 
 </div>
 
+---
 
 ## 📬 Connect with Me
-- [📫 Email ](mailto:ayyan137a@gmail.com)  
-- [💼 LinkedIn](https://www.linkedin.com/in/ayyan-nadeem-a1bb9795/)  
-- [🌐 Portfolio](https://ayyan-nadeem.netlify.app/)  
-- [💻 GitHub](https://github.com/AyyanNadeem01)  
-- [📘 Facebook](https://www.facebook.com/OfficialAyyanNadeem/)  
-- [📱 WhatsApp](https://wa.me/923174259244)
+
+<p align="center">
+  <a href="mailto:ayyan137a@gmail.com">📫 Email</a> •
+  <a href="https://www.linkedin.com/in/ayyan-nadeem-a1bb9795/">💼 LinkedIn</a> •
+  <a href="https://ayyan-nadeem.netlify.app/">🌐 Portfolio</a> •
+  <a href="https://github.com/AyyanNadeem01">💻 GitHub</a> •
+  <a href="https://www.facebook.com/OfficialAyyanNadeem/">📘 Facebook</a> •
+  <a href="https://wa.me/923174259244">📱 WhatsApp</a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <b>🌐 Frontend</b><br/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap"/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css"/>
-  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery"/>
-</p>
+**🌐 Frontend**  
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css"/>
+<img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery"/>
 
-<p align="center">
-  <b>🧠 Backend & Databases</b><br/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js"/>
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server"/>
-</p>
+**🧠 Backend & Databases**  
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js"/>
+<img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express"/>
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server"/>
 
-<p align="center">
-  <b>💻 Programming Languages</b><br/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java"/>
-  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B"/>
-</p>
+**💻 Programming Languages**  
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python"/>
+<img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java"/>
+<img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c"/>
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B"/>
 
-<p align="center">
-  <b>🛠 Tools & Platforms</b><br/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"/>
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code"/>
-</p>
+**🛠 Tools & Platforms**  
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"/>
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code"/>
 
 ---
 
@@ -87,4 +83,5 @@
 ---
 
 ## 🚀 Let's Build Together
+
 If you have an idea or want to collaborate, just drop me a message. I'm always open to exciting opportunities and new challenges!
