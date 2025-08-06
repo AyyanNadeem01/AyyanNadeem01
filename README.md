@@ -68,7 +68,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyyanNadeem01&theme=radical"/>
+  <img src="https://streak-stats.demolab.com/?user=AyyanNadeem01&theme=radical"/>
 </p>
 
 ---
