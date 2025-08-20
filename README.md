@@ -6,7 +6,11 @@
 🛠️ Constantly learning new technologies and frameworks  
 🌱 Currently exploring Data Science and Machine Learning  
 🎯 Focused on building clean, scalable, and user-friendly applications  
-🗣️ Love to talk tech – feel free to reach out!
+🗣️ Love to talk tech – feel free to reach out!  
+
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=AyyanNadeem01&label=Profile%20Views&color=0e75b6&style=flat" alt="AyyanNadeem01" /> 
+</p>
 
 ---
 
