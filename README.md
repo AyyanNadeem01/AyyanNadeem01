@@ -12,7 +12,7 @@
 
 ## 📬 Connect with Me
 
-<p align="center">
+<p>
   <a href="mailto:ayyan137a@gmail.com">📫 Email</a> •
   <a href="https://www.linkedin.com/in/ayyan-nadeem-a1bb9795/">💼 LinkedIn</a> •
   <a href="https://ayyan-nadeem.netlify.app/">🌐 Portfolio</a> •
