@@ -60,7 +60,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=AyyanNadeem01&show_icons=true&theme=radical"/>
 </p>
 
