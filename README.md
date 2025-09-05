@@ -42,8 +42,9 @@
 <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express"/>
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server"/>
-<img src="https://img.shields.io/badge/-Twilio-F22F46?style=flat&logo=twilio&logoColor=white"/>
 <img src="https://img.shields.io/badge/-RESTful%20APIs-FF6F00?style=flat&logo=api&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Nodemailer-009688?style=flat&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Twilio-F22F46?style=flat&logo=twilio&logoColor=white"/>
 
 **💻 Programming Languages**  
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python"/>
