@@ -11,14 +11,25 @@
 ---
 
 ## 📬 Connect with Me
-
 <p>
-  <a href="mailto:ayyan137a@gmail.com">📫 Email</a> •
-  <a href="https://www.linkedin.com/in/ayyan-nadeem-a1bb9795/">💼 LinkedIn</a> •
-  <a href="https://ayyan-nadeem.netlify.app/">🌐 Portfolio</a> •
-  <a href="https://github.com/AyyanNadeem01">💻 GitHub</a> •
-  <a href="https://www.facebook.com/OfficialAyyanNadeem/">📘 Facebook</a> •
-  <a href="https://wa.me/923174259244">📱 WhatsApp</a>
+  <a href="mailto:ayyan137a@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ayyan-nadeem-a1bb9795/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://ayyan-nadeem.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=html5&logoColor=white"/>
+  </a>
+  <a href="https://github.com/AyyanNadeem01">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/OfficialAyyanNadeem/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/923174259244">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 ---
