@@ -27,7 +27,7 @@
   <a href="https://www.facebook.com/OfficialAyyanNadeem/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
   </a>
-  <a align="center" href="https://wa.me/923174259244">
+  <a href="https://wa.me/923174259244">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
