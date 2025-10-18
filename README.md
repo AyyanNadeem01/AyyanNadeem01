@@ -6,6 +6,7 @@
 🛠️ Constantly learning new technologies and frameworks  
 🌱 Currently exploring Data Science and Machine Learning  
 🎯 Focused on building clean, scalable, and user-friendly applications  
+🔐 Enthusiastic about Authentication Systems like OAuth & JWT  
 🗣️ Love to talk tech – feel free to reach out!
 
 ---
@@ -40,6 +41,7 @@
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3"/>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react"/>
 <img src="https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap"/>
@@ -54,6 +56,8 @@
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server"/>
 <img src="https://img.shields.io/badge/-RESTful%20APIs-FF6F00?style=flat&logo=api&logoColor=white"/>
+<img src="https://img.shields.io/badge/-OAuth2-EB5424?style=flat&logo=auth0&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Nodemailer-009688?style=flat&logo=gmail&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Twilio-F22F46?style=flat&logo=twilio&logoColor=white"/>
 
@@ -92,4 +96,5 @@
 
 ## 🚀 Let's Build Together
 
-If you have an idea or want to collaborate, just drop me a message. I'm always open to exciting opportunities and new challenges!
+If you have an idea or want to collaborate, just drop me a message.  
+I'm always open to exciting opportunities and new challenges!
