@@ -88,7 +88,7 @@
 
 ## 🔥 GitHub Streak
 
-<p align="center">
+<p>
   <img src="https://streak-stats.demolab.com/?user=AyyanNadeem01&theme=radical"/>
 </p>
 
