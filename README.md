@@ -12,7 +12,7 @@
 ---
 
 ## 📬 Connect with Me
-<p align="center">
+<p>
   <a href="mailto:ayyan137a@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
