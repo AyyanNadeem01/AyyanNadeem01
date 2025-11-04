@@ -49,7 +49,6 @@
 <img src="https://img.shields.io/badge/-DaisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white"/>
 <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery"/>
 <img src="https://img.shields.io/badge/-Zustand-4433FF?style=flat&logo=zustand&logoColor=white"/>
-Redux
 
 **🧠 Backend & Databases**  
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js"/>
