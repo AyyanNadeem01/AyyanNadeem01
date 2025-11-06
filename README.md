@@ -1,7 +1,7 @@
 # Hey there, I'm Ayyan Nadeem 👋
 
 🎓 I'm a Software Engineering Student at COMSATS Lahore  
-💻 Passionate about Web Development and Artificial Intelligence  
+💻 Passionate about Web Development and Artificial Intelligence - Exploring there intersection
 🤝 Looking to collaborate on innovative and challenging coding projects  
 🛠️ Constantly learning new technologies and frameworks  
 🌱 Currently exploring Data Science and Machine Learning  
