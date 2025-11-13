@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css"/>
 <img src="https://img.shields.io/badge/-DaisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white"/>
 <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery"/>
-<img src="https://img.shields.io/badge/-Zustand-4433FF?style=flat&logo=zustand&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Zustand-4433FF?style=flat&logo=zustand&logoColor=white"/>Graphql
 
 **🧠 Backend & Databases**  
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js"/>
