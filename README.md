@@ -1,118 +1,146 @@
-# Hey there, I'm Ayyan Nadeem 👋  
-### 🚀 Full-Stack Developer | AI Enthusiast | Software Engineering Student @ COMSATS Lahore
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Ayyan%20Nadeem&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=00D9FF" />
+👋 Hey there, I'm Ayyan Nadeem
+🚀 Full-Stack Developer | AI Enthusiast | Software Engineering Student @ COMSATS Lahore
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;MERN+Stack+Expert;Cloud+Architecture+Designer;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://komarev.com/ghpvc/?username=AyyanNadeem01&label=Profile%20Views&color=00D9FF&style=for-the-badge"/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=AyyanNadeem01&label=Profile%20Views&color=blue&style=flat"/>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+🎯 About Me
+javascriptconst ayyan = {
+    location: "Lahore, Pakistan 🇵🇰",
+    education: "Software Engineering @ COMSATS",
+    currentFocus: ["AI/ML", "Full-Stack", "Cloud"],
+    interests: ["Web3", "System Design", "DevOps"],
+    funFact: "I turn coffee ☕ into code 💻",
+    philosophy: "Build. Break. Learn. Repeat 🔄"
+};
+🎓 Student at COMSATS Lahore
+💡 Passionate about Web Development & Artificial Intelligence
+🌐 Exploring Full-stack development, AI integrations & Cloud deployment
+🧠 Currently diving deep into Data Science & Machine Learning
+🔐 Strong interest in secure authentication systems (OAuth, JWT)
+📈 Focused on scalable, efficient, and real-world solutions
+🤝 Always open to collaboration & innovative projects
+🗣️ Love discussing tech, startups & system architecture
 
----
+🌐 Connect with Me
+<div align="center">
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
 
-## 👨‍💻 About Me
+🛠️ Tech Arsenal
+<div align="center">
+🎨 Frontend Magic
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+⚙️ Backend Power
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+💻 Languages
+Show Image
+Show Image
+Show Image
+Show Image
+🔧 Tools & Platforms
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
 
-🎓 Software Engineering Student at COMSATS Lahore  
-💡 Passionate about Web Development & Artificial Intelligence  
-🌐 Exploring Full-stack development, AI integrations & Cloud deployment  
-🧠 Currently diving deep into Data Science & Machine Learning  
-🔐 Strong interest in secure authentication systems (OAuth, JWT)  
-📈 Focused on scalable, efficient, and real-world solutions  
-🤝 Always open to collaboration & innovative projects  
-🗣️ Love discussing tech, startups & system architecture  
+📊 GitHub Analytics Dashboard
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AyyanNadeem01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AyyanNadeem01&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyyanNadeem01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=AyyanNadeem01&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+</div>
+📈 Contribution Activity
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyyanNadeem01&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B" />
+</div>
+🏆 GitHub Trophies
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AyyanNadeem01&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+</div>
+📉 Profile Details
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyyanNadeem01&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyyanNadeem01&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyyanNadeem01&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyyanNadeem01&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyyanNadeem01&theme=tokyonight" />
+</div>
 
----
+🎯 Current Focus
+yamlprojects:
+  - "🤖 AI-powered web applications"
+  - "🌐 Full-stack MERN + Next.js solutions"
+  - "☁️ Cloud-native architectures"
+  - "🔐 Advanced authentication systems"
+  
+learning:
+  - "🧠 Machine Learning & Deep Learning"
+  - "📊 Data Science with Python"
+  - "🐳 Docker & Kubernetes"
+  - "⚡ System Design & Architecture"
 
-## 📬 Connect with Me
+goals_2024:
+  - "📝 Contribute to 10+ open-source projects"
+  - "🚀 Launch 3 production-grade applications"
+  - "📚 Master PyTorch & TensorFlow"
+  - "🎓 Complete 5 advanced certifications"
 
-<p align="center">
-<a href="mailto:ayyan137a@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ayyan-nadeem-a1bb9795/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://ayyan-nadeem.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=html5"/></a>
-<a href="https://github.com/AyyanNadeem01"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://www.facebook.com/OfficialAyyanNadeem/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook"/></a>
-<a href="https://wa.me/923174259244"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp"/></a>
-</p>
+💡 Random Dev Wisdom
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+</div>
 
----
+🎮 Coding Activity
+<div align="center">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</div>
 
-## 🛠 Tech Stack
+🐍 Contribution Snake
+<div align="center">
+<img src="https://raw.githubusercontent.com/AyyanNadeem01/AyyanNadeem01/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery)
-![Zustand](https://img.shields.io/badge/Zustand-4433FF?style=flat)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios)
+🎯 Let's Build Something Amazing Together!
+<div align="center">
+💼 Open for Opportunities
+typescriptconst opportunities = {
+    freelance: true,
+    openSource: true,
+    collaboration: true,
+    mentorship: true,
+    fullTime: "Open to discuss 💼"
+};
+📫 Reach Out
+Email: ayyan137a@gmail.com
+Portfolio: ayyan-nadeem.netlify.app
+LinkedIn: Connect with me
 
----
-
-### 🧠 Backend & Databases
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server)
-![REST](https://img.shields.io/badge/REST_API-FF6F00?style=flat)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens)
-![OAuth](https://img.shields.io/badge/OAuth2-EB5424?style=flat&logo=auth0)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-009688?style=flat)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio)
-
----
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
-
----
-
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
-
----
-
-## 📊 GitHub Analytics
-
-### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=AyyanNadeem01&show_icons=true&theme=radical&hide_border=true"/>
-
-### 🧠 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyyanNadeem01&layout=compact&theme=radical&hide_border=true"/>
-
-### 🔥 Contribution Streak
-<img src="https://streak-stats.demolab.com?user=AyyanNadeem01&theme=radical&hide_border=true"/>
-
-### 📌 Contribution Graph
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyyanNadeem01&theme=radical"/>
-
----
-
-## 🚀 What I’m Working On
-
-✅ Real-world MERN + Next.js projects  
-✅ AI-powered web applications  
-✅ Open-source contributions  
-✅ Learning ML & DL using Python & PyTorch  
-✅ Building scalable backend systems  
-✅ Authentication & security research  
-
----
-
-## 🧩 Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?theme=radical"/>
-
----
-
-## 🎯 Let's Build Together
-
-🚀 Open to freelance  
-🤝 Collaboration-ready  
-📩 Just DM me on LinkedIn or GitHub  
-🌍 Let’s build something impactful!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=70&animation=twinkling" />
+⭐ Star my repositories if you find them useful!
+</div>
