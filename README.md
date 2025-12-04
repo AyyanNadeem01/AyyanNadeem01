@@ -80,14 +80,14 @@
 
 ## 📊 GitHub Analytics
 
-### 📈 Stats
-<img src="https://github-readme-stats.vercel.app/api?username=AyyanNadeem01&show_icons=true&theme=radical&count_private=true"/>
+### 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=AyyanNadeem01&show_icons=true&theme=radical&hide_border=true"/>
 
 ### 🧠 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyyanNadeem01&layout=compact&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyyanNadeem01&layout=compact&theme=radical&hide_border=true"/>
 
 ### 🔥 Contribution Streak
-<img src="https://streak-stats.demolab.com/?user=AyyanNadeem01&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=AyyanNadeem01&theme=radical&hide_border=true"/>
 
 ### 📌 Contribution Graph
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyyanNadeem01&theme=radical"/>
