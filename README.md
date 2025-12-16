@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Ayyan%20Nadeem&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=00D9FF" />
 👋 Hey there, I'm Ayyan Nadeem
-🚀 Full-Stack Developer | AI Automation Enthusiast | Software Engineering Student @ COMSATS Lahore
+🚀 Full-Stack Developer | AI Automation Enthusiast | Software Engineering Student @ COMSATS University Islamabad, Lahore
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;MERN+Stack+Expert;Cloud+Architecture+Designer;Open+Source+Contributor" alt="Typing SVG" />
 <img src="https://komarev.com/ghpvc/?username=AyyanNadeem01&label=Profile%20Views&color=00D9FF&style=for-the-badge"/>
 </div>
