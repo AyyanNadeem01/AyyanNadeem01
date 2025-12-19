@@ -11,7 +11,7 @@
 javascriptconst ayyan = {
     location: "Lahore, Pakistan 🇵🇰",
     education: "Software Engineering @ COMSATS",
-    currentFocus: ["Full-Stack Development", "Cloud"],
+    currentFocus: ["Full-Stack Development", "Web Development"],
     interests: ["Web3", "System Design", "Automation"],
     funFact: "I turn coffee ☕ into code 💻",
     philosophy: "Build. Break. Learn. Repeat 🔄"
